@@ -16,7 +16,7 @@ Elle permet à l'adhèrent de:
 + Commander un document
 + Gérer son compte
 
-*Technologies*: Spring MVC, Framework Hibernate, Bean Validation, HTML, CSS, JQuery.
+*Technologies*: Spring MVC, Framework Hibernate, Bean Validation, HTML, CSS, front-end framework Foundation, JQuery.
 
 -------------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ It allows the Member to:
 + Order a Document
 + Manage his account
 
-*Technologies*: Spring MVC, Hibernate Framework, Bean Validation, HTML, CSS, JQuery.
+*Technologies*: Spring MVC, Hibernate Framework, Bean Validation, HTML, CSS, front-end framework Foundation, JQuery.
 
 
 ##*Radhouene Rouached*
