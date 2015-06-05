@@ -39,7 +39,7 @@ It allows the Member to:
 *Technologies*: Spring MVC, Hibernate Framework, Bean Validation, HTML, CSS, front-end framework Foundation, JQuery.
 
 
-##*Radhouene Rouached*
+##*Radhouene Rouached* && Maher Abed
 #USE N' SHARE ! :+1:
 
 
